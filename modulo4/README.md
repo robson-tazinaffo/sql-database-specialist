@@ -35,10 +35,18 @@ Desenvolva suas habilidades com banco de dados, aprenda como modelar uma base de
 <img align="center" alt="Windows" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />              
 <img align="center" alt="MySQL" height="150" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
-## Modulos
+## Desafios modulo 4:
 
-1. **Fundamentos de Banco de Dados.**
-2. **Modelo de Entidade Relacional com Banco de Dados.**
-3. **Explorando a Linguagem de Consulta a Banco de Dados SQL.**
-4. **Técnicas Avançadas em Banco de Dados com MySQL.**
-5. **Transações & Gerenciamento de Banco de Dados com MySQL**
+
+
+1. **Personalizando o Banco de Dados com Índices e Procedures.**
+
+   Neste desafio você irá personalizar o seu banco de dados criando índices e procedures para o cenário de Company e E-commerce.
+
+2. ##### Personalizando Acessos e Automatizando ações no MySQL.
+
+   Neste desafio você irá criar visões em cima dos dados, além de, realizar modificações com base em ações automatizadas utilizando triggers.
+
+3. ##### Criando Transações, Executando Backup e Recovery de Banco de Dados.
+
+   Neste desafio você irá lidar com transações para executar modificações na base de dados. Sendo assim, vamos relembrar como executar uma transação. Primeiramente, é preciso desabilitar o autocommit do MySQL. Caso contrário, cada instrução SQL executada será confirmada.

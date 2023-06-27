@@ -35,10 +35,14 @@ Desenvolva suas habilidades com banco de dados, aprenda como modelar uma base de
 <img align="center" alt="Windows" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />              
 <img align="center" alt="MySQL" height="150" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
-## Modulos
+## Desafios
 
-1. **Fundamentos de Banco de Dados.**
-2. **Modelo de Entidade Relacional com Banco de Dados.**
-3. **Explorando a Linguagem de Consulta a Banco de Dados SQL.**
-4. **Técnicas Avançadas em Banco de Dados com MySQL.**
-5. **Transações & Gerenciamento de Banco de Dados com MySQL**
+1. **Refinando um Projeto Conceitual de Banco de Dados - E-Commerce.**
+
+   Modelamos juntos um contexto reduzido de e-commerce. Agora é a vez de escolher a ferramenta de modelagem para realizar o desafio. Utilizei aqui o Mysql Workbench para especificar as PK e FKs corretamente. Apesar desse conceito não ser utilizado na modelagem conceitual exploramos brevemente suas definições. Sendo assim, o entregável será o esquema conceitual para o cenário de E-commerce.
+
+2. **Construindo um Esquema Conceitual para Banco De dados**
+
+   Agora você irá criar um esquema conceitual do zero. A partir da narrativa fornecida você será capaz de criar todas as entidades, relacionamentos e atributos.
+
+   

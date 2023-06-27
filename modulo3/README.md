@@ -35,10 +35,12 @@ Desenvolva suas habilidades com banco de dados, aprenda como modelar uma base de
 <img align="center" alt="Windows" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />              
 <img align="center" alt="MySQL" height="150" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
-## Modulos
+## Desafios
 
-1. **Fundamentos de Banco de Dados.**
-2. **Modelo de Entidade Relacional com Banco de Dados.**
-3. **Explorando a Linguagem de Consulta a Banco de Dados SQL.**
-4. **Técnicas Avançadas em Banco de Dados com MySQL.**
-5. **Transações & Gerenciamento de Banco de Dados com MySQL**
+1. **Construindo seu Primeiro Projeto Lógico de Banco de Dados.**
+
+   Neste desafio, você terá a oportunidade de criar seu primeiro projeto lógico de banco de dados utilizando o MySQL. O objetivo é replicar a modelagem de um banco de dados para um cenário de e-commerce. Prepare-se para aplicar seus conhecimentos em modelagem de banco de dados e traduzir os requisitos do cenário em uma estrutura lógica coerente usando o MySQL.
+
+2. **Construa um Projeto Lógico de Banco de Dados do Zero.**
+
+   Neste desafio, você irá utilizar seu esquema conceitual, criado no desafio do módulo de modelagem de BD com modelo ER, para criar o esquema lógico para o contexto de uma oficina. Você definirá todas as etapas. Desde o esquema até a implementação do banco de dados.
