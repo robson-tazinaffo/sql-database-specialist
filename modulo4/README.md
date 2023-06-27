@@ -47,6 +47,4 @@ Desenvolva suas habilidades com banco de dados, aprenda como modelar uma base de
 
    Neste desafio você irá criar visões em cima dos dados, além de, realizar modificações com base em ações automatizadas utilizando triggers.
 
-3. ##### Criando Transações, Executando Backup e Recovery de Banco de Dados.
-
-   Neste desafio você irá lidar com transações para executar modificações na base de dados. Sendo assim, vamos relembrar como executar uma transação. Primeiramente, é preciso desabilitar o autocommit do MySQL. Caso contrário, cada instrução SQL executada será confirmada.
+   
